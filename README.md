@@ -14,4 +14,4 @@ They were looking for transparency and insight into the data they have in their 
 - The average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered</li>
   
- 
+ ![Task 1_page-0001](https://user-images.githubusercontent.com/80893000/223513306-c90f17d7-267e-4e0e-9f62-8de9cfbdb5ec.jpg)
